@@ -1,0 +1,8 @@
+{
+  "name": "Shelf Sense: Offline Inventory & Barcode Scanner",
+  "description": "An installable, offline-first stock keeper and POS for retail shops with barcode scanning, immutable ledger, low-stock alerts, and Indian Rupee billing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shelf Sense: Offline Inventory & Barcode Scanner",
+  "short_name": "ShelfSense",
+  "description": "Offline-first stock keeper and POS for retail shops with barcode scanning and immutable ledger in Indian Rupees",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#042f2e",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "productivity", "shopping"]
+}
